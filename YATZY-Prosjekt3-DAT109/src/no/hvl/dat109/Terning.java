@@ -4,8 +4,8 @@ public class Terning {
 
 	
 	public void trillTerning() {
-		for(int i; i<5; i++) {
-			
+		for(int i = 0; i<5; i++) {
+			System.out.println("joe");
 		}
 	}
 }
