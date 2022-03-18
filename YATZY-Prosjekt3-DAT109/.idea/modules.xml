@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/YATZY-Prosjekt3-DAT109.iml" filepath="$PROJECT_DIR$/YATZY-Prosjekt3-DAT109.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../dat102/dat102/YatzyTest/YatzyTest.iml" filepath="$PROJECT_DIR$/../../dat102/dat102/YatzyTest/YatzyTest.iml" />
+    </modules>
+  </component>
+</project>
